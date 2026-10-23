@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Image Prompt 1–17의 원본 표현을 자유롭게 조합하는 NovelAI 프롬프트 제작 도구"
+    />
+    <meta name="theme-color" content="#191720" />
+    <title>NyanKat Prompt Atelier</title>
+    <link rel="stylesheet" href="styles.css?v=hierarchy-20261024" />
+  </head>
+  <body>
+    <a class="skip-link" href="#stage-content">질문으로 바로 가기</a>
+
+    <div class="app-shell" id="app">
+      <header class="topbar">
+        <a class="brand" href="#" aria-label="NyanKat Prompt Atelier 처음으로">
+          <span class="brand-mark" aria-hidden="true">N</span>
+          <span>
+            <strong>NYANKAT ATELIER</strong>
+            <small>PROMPT STYLE COMPILER</small>
+          </span>
+        </a>
+
+        <div class="topbar-center" aria-label="현재 프로젝트">
+          <span class="status-dot" aria-hidden="true"></span>
+          <span id="draft-name">이름 없는 상상</span>
+          <span class="save-status" id="save-status">이 기기에 자동 저장</span>
+        </div>
+
+        <div class="topbar-actions">
+          <button class="button ghost small" type="button" id="library-button">보관함</button>
+          <button class="button ghost small" type="button" id="reset-button">새로 만들기</button>
+        </div>
+      </header>
+
+      <main class="workspace">
+        <aside class="stage-rail" aria-label="프롬프트 설계 단계">
+          <div class="rail-intro">
+            <span class="eyebrow">YOUR IMAGINATION</span>
+            <h1>상상을<br />선명하게.</h1>
+            <p>단계별 카드와 개별 표현을 조합해 원하는 디테일을 쌓으세요.</p>
+          </div>
+          <nav id="stage-nav" class="stage-nav"></nav>
+          <div class="dna-card">
+            <span class="dna-label">STYLE DNA</span>
+            <strong id="corpus-dna">내 스타일 분석 중</strong>
+            <p>Image Prompt 1–17 · 모든 원본 표현을 단계별로 조합</p>
+          </div>
+        </aside>
+
+        <section class="builder">
+          <section class="idea-capture" id="idea-capture">
+            <div class="idea-copy">
+              <span class="eyebrow">01 · FIRST THOUGHT</span>
+              <h2>오늘은 어떤 장면을 만들고 싶나요?</h2>
+              <p>한 문장만 적어도 괜찮아요. 단어를 읽고 시작점을 먼저 골라드릴게요.</p>
+            </div>
+            <div class="idea-input-wrap">
+              <textarea
+                id="idea-input"
+                rows="3"
+                placeholder="예: 비 오는 옥상에서 우산을 든 은발 마녀. 보라색 네온, 조금 쓸쓸하지만 몽환적으로…"
+                aria-label="오늘 만들고 싶은 이미지 설명"
+              ></textarea>
+              <div class="idea-actions">
+                <span id="idea-hint">한국어와 영어를 함께 알아들어요</span>
+                <button class="button primary" type="button" id="analyze-idea">상상에서 초안 만들기</button>
+              </div>
+            </div>
+            <div class="intent-picker" id="intent-picker" aria-label="만들 이미지의 출발 형태"></div>
+          </section>
+
+          <div class="stage-progress" aria-label="전체 진행률">
+            <span id="stage-counter">1 / 7</span>
+            <div class="progress-track"><span id="progress-fill"></span></div>
+            <span id="answer-counter">0개 선택</span>
+          </div>
+
+          <section id="stage-content" class="stage-content" tabindex="-1"></section>
+
+          <footer class="builder-footer">
+            <button class="button ghost" type="button" id="prev-stage">이전 단계</button>
+            <button class="button primary next" type="button" id="next-stage">
+              <span id="next-label">다음: 큰 컨셉</span>
+              <span aria-hidden="true">→</span>
+            </button>
+          </footer>
+        </section>
+
+        <aside class="prompt-dock" id="prompt-dock" aria-label="완성 프롬프트">
+          <div class="dock-head">
+            <div>
+              <span class="eyebrow">LIVE PROMPT</span>
+              <h2>당신의 프롬프트</h2>
+            </div>
+            <span class="tag-count" id="tag-count">2 tags</span>
+          </div>
+
+          <div class="prompt-tabs" role="tablist" aria-label="프롬프트 출력 형식">
+            <button id="output-tab-flat" role="tab" aria-selected="true" aria-controls="prompt-output" tabindex="0" data-output-tab="flat">NovelAI</button>
+            <button id="output-tab-sectioned" role="tab" aria-selected="false" aria-controls="prompt-output" tabindex="-1" data-output-tab="sectioned">섹션형</button>
+            <button id="output-tab-negative" role="tab" aria-selected="false" aria-controls="prompt-output" tabindex="-1" data-output-tab="negative">UC</button>
+          </div>
+
+          <div class="prompt-output-wrap">
+            <pre id="prompt-output" role="tabpanel" aria-labelledby="output-tab-flat" tabindex="0"></pre>
+            <div class="empty-prompt" id="empty-prompt">
+              <span aria-hidden="true">✦</span>
+              <p>선택한 내용이 이곳에서<br />실시간으로 조립됩니다.</p>
+            </div>
+          </div>
+
+          <div class="prompt-controls">
+            <label class="control-row" for="emphasis-select">
+              <span>
+                <strong>핵심 강조</strong>
+                <small>완성 단계에서 고른 대상에 적용 · 원본 강조 유지</small>
+              </span>
+              <select id="emphasis-select">
+                <option value="2">2× 기본</option>
+                <option value="1.5">1.5× 부드럽게</option>
+                <option value="1.3">1.3× 은은하게</option>
+                <option value="0">추가 강조 안 함</option>
+              </select>
+            </label>
+            <label class="switch-row" for="quality-toggle">
+              <span>
+                <strong>품질 태그 직접 삽입</strong>
+                <small>NovelAI 품질 토글을 끌 때 사용</small>
+              </span>
+              <input id="quality-toggle" type="checkbox" />
+              <span class="switch-ui" aria-hidden="true"></span>
+            </label>
+          </div>
+
+          <div class="warning-list" id="warning-list" aria-live="polite"></div>
+
+          <div class="dock-actions">
+            <button class="button primary full" type="button" id="copy-prompt">프롬프트 복사</button>
+            <button class="button ghost full" type="button" id="save-draft">보관함에 저장</button>
+          </div>
+
+          <p class="dock-note">카드별 미리보기는 선택 의미를 돕는 2000년대 일본 애니메이션풍 예시이며 NovelAI의 실제 결과를 보장하지 않습니다.</p>
+        </aside>
+      </main>
+
+      <button class="mobile-prompt-button" id="mobile-prompt-button" type="button" aria-controls="prompt-dock" aria-expanded="false">
+        <span>완성 프롬프트</span>
+        <span id="mobile-tag-count">2 tags</span>
+      </button>
+    </div>
+
+    <dialog class="library-dialog" id="library-dialog" aria-labelledby="library-title">
+      <div class="dialog-head">
+        <div>
+          <span class="eyebrow">LOCAL LIBRARY</span>
+          <h2 id="library-title">내 상상 보관함</h2>
+        </div>
+        <button class="icon-button" type="button" id="close-library" aria-label="보관함 닫기">×</button>
+      </div>
+      <p class="dialog-lead">저장한 프리셋은 이 브라우저에만 남습니다.</p>
+      <div class="library-list" id="library-list"></div>
+    </dialog>
+
+    <dialog class="detail-dialog" id="detail-dialog" aria-labelledby="detail-title">
+      <div class="dialog-head">
+        <div>
+          <span class="eyebrow" id="detail-eyebrow">DEEP CONTROL</span>
+          <h2 id="detail-title">세부 조정</h2>
+        </div>
+        <button class="icon-button" type="button" id="close-detail" aria-label="세부 조정 닫기">×</button>
+      </div>
+      <div id="detail-content"></div>
+    </dialog>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+    <script src="data.js" defer></script>
+    <script src="corpus-library.js" defer></script>
+    <script src="novelai-tag-catalog.js?v=hierarchy-20261024" defer></script>
+    <script src="freedom-data.js" defer></script>
+    <script src="corpus-studio.js" defer></script>
+    <script src="guided-options.js?v=hierarchy-20261024" defer></script>
+    <script src="guided-corpus.js" defer></script>
+    <script src="guided-descriptions-world.js" defer></script>
+    <script src="guided-descriptions-outfit.js" defer></script>
+    <script src="guided-descriptions-action.js" defer></script>
+    <script src="guided-hierarchy.js" defer></script>
+    <script src="atlas-crops.js?v=hierarchy-20261024" defer></script>
+    <script src="app.js?v=hierarchy-20261024" defer></script>
+  </body>
+</html>

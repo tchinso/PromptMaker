@@ -1,0 +1,2455 @@
+{
+  "thumb-camera-framing-v1.png": {
+    "cells": [
+      {
+        "x": 9,
+        "y": 9,
+        "width": 367,
+        "height": 351
+      },
+      {
+        "x": 387,
+        "y": 9,
+        "width": 330,
+        "height": 351
+      },
+      {
+        "x": 728,
+        "y": 9,
+        "width": 352,
+        "height": 351
+      },
+      {
+        "x": 1091,
+        "y": 9,
+        "width": 348,
+        "height": 351
+      },
+      {
+        "x": 9,
+        "y": 372,
+        "width": 367,
+        "height": 345
+      },
+      {
+        "x": 387,
+        "y": 372,
+        "width": 330,
+        "height": 345
+      },
+      {
+        "x": 728,
+        "y": 372,
+        "width": 352,
+        "height": 345
+      },
+      {
+        "x": 1091,
+        "y": 372,
+        "width": 348,
+        "height": 345
+      },
+      {
+        "x": 9,
+        "y": 729,
+        "width": 367,
+        "height": 348
+      },
+      {
+        "x": 387,
+        "y": 729,
+        "width": 330,
+        "height": 348
+      },
+      {
+        "x": 728,
+        "y": 729,
+        "width": 352,
+        "height": 348
+      },
+      {
+        "x": 1091,
+        "y": 729,
+        "width": 348,
+        "height": 348
+      }
+    ],
+    "note": "Measured cream separators; first column is wider than the second.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-character-android-variants-v2.png": {
+    "cells": [
+      {
+        "x": 1,
+        "y": 1,
+        "width": 359,
+        "height": 367,
+        "anchorY": 0
+      },
+      {
+        "x": 363,
+        "y": 1,
+        "width": 359,
+        "height": 367,
+        "anchorY": 0
+      },
+      {
+        "x": 725,
+        "y": 1,
+        "width": 359,
+        "height": 367,
+        "anchorY": 0
+      },
+      {
+        "x": 1088,
+        "y": 1,
+        "width": 359,
+        "height": 367,
+        "anchorY": 0
+      },
+      {
+        "x": 1,
+        "y": 373,
+        "width": 359,
+        "height": 393,
+        "anchorY": 0
+      },
+      {
+        "x": 363,
+        "y": 373,
+        "width": 359,
+        "height": 393,
+        "anchorY": 0
+      },
+      {
+        "x": 725,
+        "y": 373,
+        "width": 359,
+        "height": 393,
+        "anchorY": 0
+      },
+      {
+        "x": 1088,
+        "y": 373,
+        "width": 359,
+        "height": 393,
+        "anchorY": 0
+      },
+      {
+        "x": 1,
+        "y": 770,
+        "width": 359,
+        "height": 315
+      },
+      {
+        "x": 363,
+        "y": 770,
+        "width": 359,
+        "height": 315
+      },
+      {
+        "x": 725,
+        "y": 770,
+        "width": 359,
+        "height": 315
+      },
+      {
+        "x": 1088,
+        "y": 770,
+        "width": 359,
+        "height": 315
+      }
+    ],
+    "note": "Measured thin gray row seams at369–371 and767–769; portrait rows are unequal.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-character-animal-variants-v2.png": {
+    "cells": [
+      {
+        "x": 1,
+        "y": 1,
+        "width": 356,
+        "height": 416,
+        "anchorY": 0
+      },
+      {
+        "x": 363,
+        "y": 1,
+        "width": 358,
+        "height": 416,
+        "anchorY": 0
+      },
+      {
+        "x": 727,
+        "y": 1,
+        "width": 358,
+        "height": 416,
+        "anchorY": 0
+      },
+      {
+        "x": 1090,
+        "y": 1,
+        "width": 357,
+        "height": 416,
+        "anchorY": 0
+      },
+      {
+        "x": 1,
+        "y": 421,
+        "width": 356,
+        "height": 383,
+        "anchorY": 0
+      },
+      {
+        "x": 363,
+        "y": 421,
+        "width": 358,
+        "height": 383,
+        "anchorY": 0
+      },
+      {
+        "x": 727,
+        "y": 421,
+        "width": 358,
+        "height": 383,
+        "anchorY": 0
+      },
+      {
+        "x": 1090,
+        "y": 421,
+        "width": 357,
+        "height": 383,
+        "anchorY": 0
+      },
+      {
+        "x": 1,
+        "y": 809,
+        "width": 356,
+        "height": 276
+      },
+      {
+        "x": 363,
+        "y": 809,
+        "width": 358,
+        "height": 276
+      },
+      {
+        "x": 727,
+        "y": 809,
+        "width": 358,
+        "height": 276
+      },
+      {
+        "x": 1090,
+        "y": 809,
+        "width": 357,
+        "height": 276
+      }
+    ],
+    "note": "Measured white row seams at418–420 and805–808. First eight cells are animal characters; final four are emblems.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-character-demon-variants-v2.png": {
+    "cells": [
+      {
+        "x": 9,
+        "y": 10,
+        "width": 350,
+        "height": 373,
+        "anchorY": 0
+      },
+      {
+        "x": 369,
+        "y": 10,
+        "width": 349,
+        "height": 373,
+        "anchorY": 0
+      },
+      {
+        "x": 729,
+        "y": 10,
+        "width": 349,
+        "height": 373,
+        "anchorY": 0
+      },
+      {
+        "x": 1089,
+        "y": 10,
+        "width": 350,
+        "height": 373,
+        "anchorY": 0
+      },
+      {
+        "x": 9,
+        "y": 393,
+        "width": 350,
+        "height": 380,
+        "anchorY": 0
+      },
+      {
+        "x": 369,
+        "y": 393,
+        "width": 349,
+        "height": 380,
+        "anchorY": 0
+      },
+      {
+        "x": 729,
+        "y": 393,
+        "width": 349,
+        "height": 380,
+        "anchorY": 0
+      },
+      {
+        "x": 1089,
+        "y": 393,
+        "width": 350,
+        "height": 380,
+        "anchorY": 0
+      },
+      {
+        "x": 9,
+        "y": 784,
+        "width": 350,
+        "height": 293
+      },
+      {
+        "x": 369,
+        "y": 784,
+        "width": 349,
+        "height": 293
+      },
+      {
+        "x": 729,
+        "y": 784,
+        "width": 349,
+        "height": 293
+      },
+      {
+        "x": 1089,
+        "y": 784,
+        "width": 350,
+        "height": 293
+      }
+    ],
+    "note": "Measured black separators; first two portrait rows are taller than the emblem row.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-character-doll-variants-v2.png": {
+    "cells": [
+      {
+        "x": 1,
+        "y": 1,
+        "width": 359,
+        "height": 405,
+        "anchorY": 0
+      },
+      {
+        "x": 368,
+        "y": 1,
+        "width": 352,
+        "height": 405,
+        "anchorY": 0
+      },
+      {
+        "x": 728,
+        "y": 1,
+        "width": 352,
+        "height": 405,
+        "anchorY": 0
+      },
+      {
+        "x": 1088,
+        "y": 1,
+        "width": 359,
+        "height": 405,
+        "anchorY": 0
+      },
+      {
+        "x": 1,
+        "y": 413,
+        "width": 359,
+        "height": 369,
+        "anchorY": 0
+      },
+      {
+        "x": 368,
+        "y": 413,
+        "width": 352,
+        "height": 369,
+        "anchorY": 0
+      },
+      {
+        "x": 728,
+        "y": 413,
+        "width": 352,
+        "height": 369,
+        "anchorY": 0
+      },
+      {
+        "x": 1088,
+        "y": 413,
+        "width": 359,
+        "height": 369,
+        "anchorY": 0
+      },
+      {
+        "x": 1,
+        "y": 790,
+        "width": 359,
+        "height": 295
+      },
+      {
+        "x": 368,
+        "y": 790,
+        "width": 352,
+        "height": 295
+      },
+      {
+        "x": 728,
+        "y": 790,
+        "width": 352,
+        "height": 295
+      },
+      {
+        "x": 1088,
+        "y": 790,
+        "width": 359,
+        "height": 295
+      }
+    ],
+    "note": "Measured white row seams at407–412 and783–789.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-character-dragon-variants-v2.png": {
+    "cells": [
+      {
+        "x": 1,
+        "y": 1,
+        "width": 357,
+        "height": 410,
+        "anchorY": 0
+      },
+      {
+        "x": 363,
+        "y": 1,
+        "width": 358,
+        "height": 410,
+        "anchorY": 0
+      },
+      {
+        "x": 725,
+        "y": 1,
+        "width": 360,
+        "height": 410,
+        "anchorY": 0
+      },
+      {
+        "x": 1090,
+        "y": 1,
+        "width": 357,
+        "height": 410,
+        "anchorY": 0
+      },
+      {
+        "x": 1,
+        "y": 415,
+        "width": 357,
+        "height": 396,
+        "anchorY": 0
+      },
+      {
+        "x": 363,
+        "y": 415,
+        "width": 358,
+        "height": 396,
+        "anchorY": 0
+      },
+      {
+        "x": 725,
+        "y": 415,
+        "width": 360,
+        "height": 396,
+        "anchorY": 0
+      },
+      {
+        "x": 1090,
+        "y": 415,
+        "width": 357,
+        "height": 396,
+        "anchorY": 0
+      },
+      {
+        "x": 1,
+        "y": 815,
+        "width": 357,
+        "height": 270
+      },
+      {
+        "x": 363,
+        "y": 815,
+        "width": 358,
+        "height": 270
+      },
+      {
+        "x": 725,
+        "y": 815,
+        "width": 360,
+        "height": 270
+      },
+      {
+        "x": 1090,
+        "y": 815,
+        "width": 357,
+        "height": 270
+      }
+    ],
+    "note": "Measured white row seams at412–414 and812–814.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-character-elf-variants-v2.png": {
+    "cells": [
+      {
+        "x": 1,
+        "y": 1,
+        "width": 358,
+        "height": 388,
+        "anchorY": 0
+      },
+      {
+        "x": 364,
+        "y": 1,
+        "width": 357,
+        "height": 388,
+        "anchorY": 0
+      },
+      {
+        "x": 727,
+        "y": 1,
+        "width": 357,
+        "height": 388,
+        "anchorY": 0
+      },
+      {
+        "x": 1089,
+        "y": 1,
+        "width": 358,
+        "height": 388,
+        "anchorY": 0
+      },
+      {
+        "x": 1,
+        "y": 394,
+        "width": 358,
+        "height": 388,
+        "anchorY": 0
+      },
+      {
+        "x": 364,
+        "y": 394,
+        "width": 357,
+        "height": 388,
+        "anchorY": 0
+      },
+      {
+        "x": 727,
+        "y": 394,
+        "width": 357,
+        "height": 388,
+        "anchorY": 0
+      },
+      {
+        "x": 1089,
+        "y": 394,
+        "width": 358,
+        "height": 388,
+        "anchorY": 0
+      },
+      {
+        "x": 1,
+        "y": 787,
+        "width": 358,
+        "height": 298
+      },
+      {
+        "x": 364,
+        "y": 787,
+        "width": 357,
+        "height": 298
+      },
+      {
+        "x": 727,
+        "y": 787,
+        "width": 357,
+        "height": 298
+      },
+      {
+        "x": 1089,
+        "y": 787,
+        "width": 358,
+        "height": 298
+      }
+    ],
+    "note": "Measured thin light separators at390–393 and783–786.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-character-fairy-variants-v2.png": {
+    "cells": [
+      {
+        "x": 6,
+        "y": 6,
+        "width": 353,
+        "height": 376,
+        "anchorY": 0
+      },
+      {
+        "x": 368,
+        "y": 6,
+        "width": 351,
+        "height": 376,
+        "anchorY": 0
+      },
+      {
+        "x": 727,
+        "y": 6,
+        "width": 354,
+        "height": 376,
+        "anchorY": 0
+      },
+      {
+        "x": 1090,
+        "y": 6,
+        "width": 352,
+        "height": 376,
+        "anchorY": 0
+      },
+      {
+        "x": 6,
+        "y": 389,
+        "width": 353,
+        "height": 355,
+        "anchorY": 0
+      },
+      {
+        "x": 368,
+        "y": 389,
+        "width": 351,
+        "height": 355,
+        "anchorY": 0
+      },
+      {
+        "x": 727,
+        "y": 389,
+        "width": 354,
+        "height": 355,
+        "anchorY": 0
+      },
+      {
+        "x": 1090,
+        "y": 389,
+        "width": 352,
+        "height": 355,
+        "anchorY": 0
+      },
+      {
+        "x": 6,
+        "y": 750,
+        "width": 353,
+        "height": 330
+      },
+      {
+        "x": 368,
+        "y": 750,
+        "width": 351,
+        "height": 330
+      },
+      {
+        "x": 727,
+        "y": 750,
+        "width": 354,
+        "height": 330
+      },
+      {
+        "x": 1090,
+        "y": 750,
+        "width": 352,
+        "height": 330
+      }
+    ],
+    "note": "Measured white grid; first row ends382 and second ends744, rather than uniform thirds.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-character-fantasy-traits-v2.png": {
+    "cells": [
+      {
+        "x": 1,
+        "y": 1,
+        "width": 352,
+        "height": 357
+      },
+      {
+        "x": 366,
+        "y": 1,
+        "width": 331,
+        "height": 357
+      },
+      {
+        "x": 708,
+        "y": 1,
+        "width": 369,
+        "height": 357
+      },
+      {
+        "x": 1089,
+        "y": 1,
+        "width": 358,
+        "height": 357
+      },
+      {
+        "x": 1,
+        "y": 370,
+        "width": 352,
+        "height": 345
+      },
+      {
+        "x": 366,
+        "y": 370,
+        "width": 331,
+        "height": 345
+      },
+      {
+        "x": 708,
+        "y": 370,
+        "width": 369,
+        "height": 345
+      },
+      {
+        "x": 1089,
+        "y": 370,
+        "width": 358,
+        "height": 345
+      },
+      {
+        "x": 1,
+        "y": 727,
+        "width": 352,
+        "height": 358
+      },
+      {
+        "x": 366,
+        "y": 727,
+        "width": 331,
+        "height": 358
+      },
+      {
+        "x": 708,
+        "y": 727,
+        "width": 369,
+        "height": 358
+      },
+      {
+        "x": 1089,
+        "y": 727,
+        "width": 358,
+        "height": 358
+      }
+    ],
+    "note": "Measured white separators; second column ends697, not the nominal midpoint724.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-concept-weather-v3.png": {
+    "cells": [
+      {
+        "x": 1,
+        "y": 1,
+        "width": 357,
+        "height": 388
+      },
+      {
+        "x": 365,
+        "y": 1,
+        "width": 356,
+        "height": 388
+      },
+      {
+        "x": 727,
+        "y": 1,
+        "width": 356,
+        "height": 388
+      },
+      {
+        "x": 1090,
+        "y": 1,
+        "width": 357,
+        "height": 388
+      },
+      {
+        "x": 1,
+        "y": 394,
+        "width": 357,
+        "height": 347
+      },
+      {
+        "x": 365,
+        "y": 394,
+        "width": 356,
+        "height": 347
+      },
+      {
+        "x": 727,
+        "y": 394,
+        "width": 356,
+        "height": 347
+      },
+      {
+        "x": 1090,
+        "y": 394,
+        "width": 357,
+        "height": 347
+      },
+      {
+        "x": 1,
+        "y": 747,
+        "width": 357,
+        "height": 338
+      },
+      {
+        "x": 365,
+        "y": 747,
+        "width": 356,
+        "height": 338
+      },
+      {
+        "x": 727,
+        "y": 747,
+        "width": 356,
+        "height": 338
+      },
+      {
+        "x": 1090,
+        "y": 747,
+        "width": 357,
+        "height": 338
+      }
+    ],
+    "note": "Measured thin row seams at390–393 and742–746.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-finish-density-v2.png": {
+    "cells": [
+      {
+        "x": 2,
+        "y": 2,
+        "width": 358,
+        "height": 378
+      },
+      {
+        "x": 364,
+        "y": 2,
+        "width": 358,
+        "height": 378
+      },
+      {
+        "x": 726,
+        "y": 2,
+        "width": 358,
+        "height": 378
+      },
+      {
+        "x": 1088,
+        "y": 2,
+        "width": 358,
+        "height": 378
+      },
+      {
+        "x": 2,
+        "y": 384,
+        "width": 358,
+        "height": 341
+      },
+      {
+        "x": 364,
+        "y": 384,
+        "width": 358,
+        "height": 341
+      },
+      {
+        "x": 726,
+        "y": 384,
+        "width": 358,
+        "height": 341
+      },
+      {
+        "x": 1088,
+        "y": 384,
+        "width": 358,
+        "height": 341
+      },
+      {
+        "x": 2,
+        "y": 729,
+        "width": 358,
+        "height": 355
+      },
+      {
+        "x": 364,
+        "y": 729,
+        "width": 358,
+        "height": 355
+      },
+      {
+        "x": 726,
+        "y": 729,
+        "width": 358,
+        "height": 355
+      },
+      {
+        "x": 1088,
+        "y": 729,
+        "width": 358,
+        "height": 355
+      }
+    ],
+    "note": "Measured black row seams at381–383 and726–728.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-outfit-bottomwear-v2.png": {
+    "cells": [
+      {
+        "x": 1,
+        "y": 1,
+        "width": 357,
+        "height": 408
+      },
+      {
+        "x": 369,
+        "y": 1,
+        "width": 349,
+        "height": 408
+      },
+      {
+        "x": 730,
+        "y": 1,
+        "width": 346,
+        "height": 408
+      },
+      {
+        "x": 1087,
+        "y": 1,
+        "width": 360,
+        "height": 408
+      },
+      {
+        "x": 1,
+        "y": 421,
+        "width": 357,
+        "height": 353
+      },
+      {
+        "x": 369,
+        "y": 421,
+        "width": 349,
+        "height": 353
+      },
+      {
+        "x": 730,
+        "y": 421,
+        "width": 346,
+        "height": 353
+      },
+      {
+        "x": 1087,
+        "y": 421,
+        "width": 360,
+        "height": 353
+      },
+      {
+        "x": 1,
+        "y": 785,
+        "width": 357,
+        "height": 300
+      },
+      {
+        "x": 369,
+        "y": 785,
+        "width": 349,
+        "height": 300
+      },
+      {
+        "x": 730,
+        "y": 785,
+        "width": 346,
+        "height": 300
+      },
+      {
+        "x": 1087,
+        "y": 785,
+        "width": 360,
+        "height": 300
+      }
+    ],
+    "note": "Measured wide white row seams at410–420 and775–784; avoids neighboring shoes above the lower rows.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-outfit-casual-v2.png": {
+    "cells": [
+      {
+        "x": 7,
+        "y": 5,
+        "width": 349,
+        "height": 375
+      },
+      {
+        "x": 369,
+        "y": 5,
+        "width": 348,
+        "height": 375
+      },
+      {
+        "x": 730,
+        "y": 5,
+        "width": 347,
+        "height": 375
+      },
+      {
+        "x": 1091,
+        "y": 5,
+        "width": 349,
+        "height": 375
+      },
+      {
+        "x": 7,
+        "y": 394,
+        "width": 349,
+        "height": 356
+      },
+      {
+        "x": 369,
+        "y": 394,
+        "width": 348,
+        "height": 356
+      },
+      {
+        "x": 730,
+        "y": 394,
+        "width": 347,
+        "height": 356
+      },
+      {
+        "x": 1091,
+        "y": 394,
+        "width": 349,
+        "height": 356
+      },
+      {
+        "x": 7,
+        "y": 761,
+        "width": 349,
+        "height": 319
+      },
+      {
+        "x": 369,
+        "y": 761,
+        "width": 348,
+        "height": 319
+      },
+      {
+        "x": 730,
+        "y": 761,
+        "width": 347,
+        "height": 319
+      },
+      {
+        "x": 1091,
+        "y": 761,
+        "width": 349,
+        "height": 319
+      }
+    ],
+    "note": "Measured cream separators at381–393 and751–760; regular clothing cards preserve their own row.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-outfit-formal-v2.png": {
+    "cells": [
+      {
+        "x": 1,
+        "y": 1,
+        "width": 351,
+        "height": 401,
+        "anchorY": 0
+      },
+      {
+        "x": 372,
+        "y": 1,
+        "width": 342,
+        "height": 401,
+        "anchorY": 0
+      },
+      {
+        "x": 734,
+        "y": 1,
+        "width": 342,
+        "height": 401,
+        "anchorY": 0
+      },
+      {
+        "x": 1096,
+        "y": 1,
+        "width": 351,
+        "height": 401,
+        "anchorY": 0
+      },
+      {
+        "x": 1,
+        "y": 412,
+        "width": 351,
+        "height": 360,
+        "anchorY": 0
+      },
+      {
+        "x": 372,
+        "y": 412,
+        "width": 342,
+        "height": 360,
+        "anchorY": 0
+      },
+      {
+        "x": 734,
+        "y": 412,
+        "width": 342,
+        "height": 360,
+        "anchorY": 0
+      },
+      {
+        "x": 1096,
+        "y": 412,
+        "width": 351,
+        "height": 360,
+        "anchorY": 0
+      },
+      {
+        "x": 1,
+        "y": 781,
+        "width": 351,
+        "height": 304
+      },
+      {
+        "x": 372,
+        "y": 781,
+        "width": 342,
+        "height": 304
+      },
+      {
+        "x": 734,
+        "y": 781,
+        "width": 342,
+        "height": 304
+      },
+      {
+        "x": 1096,
+        "y": 781,
+        "width": 351,
+        "height": 304
+      }
+    ],
+    "note": "Measured wide white seams at403–411 and773–780; first portrait row is taller.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-outfit-trad-goth-fantasy-v1.png": {
+    "cells": [
+      {
+        "x": 6,
+        "y": 5,
+        "width": 357,
+        "height": 369
+      },
+      {
+        "x": 370,
+        "y": 5,
+        "width": 348,
+        "height": 369
+      },
+      {
+        "x": 725,
+        "y": 5,
+        "width": 346,
+        "height": 369
+      },
+      {
+        "x": 1078,
+        "y": 5,
+        "width": 363,
+        "height": 369
+      },
+      {
+        "x": 6,
+        "y": 381,
+        "width": 357,
+        "height": 341
+      },
+      {
+        "x": 370,
+        "y": 381,
+        "width": 348,
+        "height": 341
+      },
+      {
+        "x": 725,
+        "y": 381,
+        "width": 346,
+        "height": 341
+      },
+      {
+        "x": 1078,
+        "y": 381,
+        "width": 363,
+        "height": 341
+      },
+      {
+        "x": 6,
+        "y": 729,
+        "width": 357,
+        "height": 351
+      },
+      {
+        "x": 370,
+        "y": 729,
+        "width": 348,
+        "height": 351
+      },
+      {
+        "x": 725,
+        "y": 729,
+        "width": 346,
+        "height": 351
+      },
+      {
+        "x": 1078,
+        "y": 729,
+        "width": 363,
+        "height": 351
+      }
+    ],
+    "note": "Measured cream grid with first row ending374 rather than362.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-outfit-traditional-v2.png": {
+    "cells": [
+      {
+        "x": 6,
+        "y": 5,
+        "width": 353,
+        "height": 383,
+        "anchorY": 0
+      },
+      {
+        "x": 367,
+        "y": 5,
+        "width": 353,
+        "height": 383,
+        "anchorY": 0
+      },
+      {
+        "x": 728,
+        "y": 5,
+        "width": 354,
+        "height": 383,
+        "anchorY": 0
+      },
+      {
+        "x": 1090,
+        "y": 5,
+        "width": 351,
+        "height": 383,
+        "anchorY": 0
+      },
+      {
+        "x": 6,
+        "y": 395,
+        "width": 353,
+        "height": 378,
+        "anchorY": 0
+      },
+      {
+        "x": 367,
+        "y": 395,
+        "width": 353,
+        "height": 378,
+        "anchorY": 0
+      },
+      {
+        "x": 728,
+        "y": 395,
+        "width": 354,
+        "height": 378,
+        "anchorY": 0
+      },
+      {
+        "x": 1090,
+        "y": 395,
+        "width": 351,
+        "height": 378,
+        "anchorY": 0
+      },
+      {
+        "x": 6,
+        "y": 780,
+        "width": 353,
+        "height": 300
+      },
+      {
+        "x": 367,
+        "y": 780,
+        "width": 353,
+        "height": 300
+      },
+      {
+        "x": 728,
+        "y": 780,
+        "width": 354,
+        "height": 300
+      },
+      {
+        "x": 1090,
+        "y": 780,
+        "width": 351,
+        "height": 300
+      }
+    ],
+    "note": "Measured cream row seams at389–394 and774–779; first eight garments and last kimono remain separate.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-props-accessories-v1.png": {
+    "cells": [
+      {
+        "x": 27,
+        "y": 31,
+        "width": 330,
+        "height": 328
+      },
+      {
+        "x": 383,
+        "y": 31,
+        "width": 328,
+        "height": 328
+      },
+      {
+        "x": 737,
+        "y": 31,
+        "width": 329,
+        "height": 328
+      },
+      {
+        "x": 1092,
+        "y": 31,
+        "width": 330,
+        "height": 328
+      },
+      {
+        "x": 27,
+        "y": 384,
+        "width": 330,
+        "height": 314
+      },
+      {
+        "x": 383,
+        "y": 384,
+        "width": 328,
+        "height": 314
+      },
+      {
+        "x": 737,
+        "y": 384,
+        "width": 329,
+        "height": 314
+      },
+      {
+        "x": 1092,
+        "y": 384,
+        "width": 330,
+        "height": 314
+      },
+      {
+        "x": 27,
+        "y": 722,
+        "width": 330,
+        "height": 330
+      },
+      {
+        "x": 383,
+        "y": 722,
+        "width": 328,
+        "height": 330
+      },
+      {
+        "x": 737,
+        "y": 722,
+        "width": 329,
+        "height": 330
+      },
+      {
+        "x": 1092,
+        "y": 722,
+        "width": 330,
+        "height": 330
+      }
+    ],
+    "note": "Measured inner picture regions excluding surrounding white rectangular frames; border is not part of any prop.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-scene-cast-v2.png": {
+    "cells": [
+      {
+        "x": 8,
+        "y": 7,
+        "width": 349,
+        "height": 453,
+        "anchorY": 0
+      },
+      {
+        "x": 368,
+        "y": 7,
+        "width": 351,
+        "height": 453,
+        "anchorY": 0
+      },
+      {
+        "x": 729,
+        "y": 7,
+        "width": 350,
+        "height": 453,
+        "anchorY": 0
+      },
+      {
+        "x": 1090,
+        "y": 7,
+        "width": 350,
+        "height": 453,
+        "anchorY": 0
+      },
+      {
+        "x": 8,
+        "y": 471,
+        "width": 349,
+        "height": 270,
+        "anchorY": 0
+      },
+      {
+        "x": 368,
+        "y": 471,
+        "width": 351,
+        "height": 270,
+        "anchorY": 0
+      },
+      {
+        "x": 729,
+        "y": 471,
+        "width": 350,
+        "height": 270,
+        "anchorY": 0
+      },
+      {
+        "x": 1090,
+        "y": 471,
+        "width": 350,
+        "height": 270,
+        "anchorY": 0
+      },
+      {
+        "x": 8,
+        "y": 753,
+        "width": 349,
+        "height": 326
+      },
+      {
+        "x": 368,
+        "y": 753,
+        "width": 351,
+        "height": 326
+      },
+      {
+        "x": 729,
+        "y": 753,
+        "width": 350,
+        "height": 326
+      },
+      {
+        "x": 1090,
+        "y": 753,
+        "width": 350,
+        "height": 326
+      }
+    ],
+    "note": "Measured cream row seams at461–470 and742–752; first two tall cells show cast examples.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-scene-partner-archetype-v2.png": {
+    "cells": [
+      {
+        "x": 8,
+        "y": 8,
+        "width": 348,
+        "height": 391,
+        "anchorY": 0
+      },
+      {
+        "x": 368,
+        "y": 8,
+        "width": 349,
+        "height": 391,
+        "anchorY": 0
+      },
+      {
+        "x": 729,
+        "y": 8,
+        "width": 348,
+        "height": 391,
+        "anchorY": 0
+      },
+      {
+        "x": 1090,
+        "y": 8,
+        "width": 350,
+        "height": 391,
+        "anchorY": 0
+      },
+      {
+        "x": 8,
+        "y": 410,
+        "width": 348,
+        "height": 394,
+        "anchorY": 0
+      },
+      {
+        "x": 368,
+        "y": 410,
+        "width": 349,
+        "height": 394,
+        "anchorY": 0
+      },
+      {
+        "x": 729,
+        "y": 410,
+        "width": 348,
+        "height": 394,
+        "anchorY": 0
+      },
+      {
+        "x": 1090,
+        "y": 410,
+        "width": 350,
+        "height": 394,
+        "anchorY": 0
+      },
+      {
+        "x": 8,
+        "y": 817,
+        "width": 348,
+        "height": 261
+      },
+      {
+        "x": 368,
+        "y": 817,
+        "width": 349,
+        "height": 261
+      },
+      {
+        "x": 729,
+        "y": 817,
+        "width": 348,
+        "height": 261
+      },
+      {
+        "x": 1090,
+        "y": 817,
+        "width": 350,
+        "height": 261
+      }
+    ],
+    "note": "Measured cream row seams at400–409 and805–816; eight partner types precede four landscape cells.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-outfit-fantasy-v2.png": {
+    "cells": [
+      {
+        "x": 4,
+        "y": 4,
+        "width": 353,
+        "height": 395,
+        "anchorY": 0
+      },
+      {
+        "x": 365,
+        "y": 4,
+        "width": 354,
+        "height": 395,
+        "anchorY": 0
+      },
+      {
+        "x": 727,
+        "y": 4,
+        "width": 354,
+        "height": 395,
+        "anchorY": 0
+      },
+      {
+        "x": 1089,
+        "y": 4,
+        "width": 354,
+        "height": 395,
+        "anchorY": 0
+      },
+      {
+        "x": 4,
+        "y": 410,
+        "width": 268,
+        "height": 387,
+        "anchorY": 0
+      },
+      {
+        "x": 282,
+        "y": 410,
+        "width": 268,
+        "height": 387,
+        "anchorY": 0
+      },
+      {
+        "x": 559,
+        "y": 410,
+        "width": 268,
+        "height": 387,
+        "anchorY": 0
+      },
+      {
+        "x": 837,
+        "y": 410,
+        "width": 290,
+        "height": 387,
+        "anchorY": 0
+      },
+      {
+        "x": 1138,
+        "y": 410,
+        "width": 305,
+        "height": 387,
+        "anchorY": 0
+      },
+      {
+        "x": 4,
+        "y": 808,
+        "width": 353,
+        "height": 273
+      },
+      {
+        "x": 365,
+        "y": 808,
+        "width": 354,
+        "height": 273
+      },
+      {
+        "x": 727,
+        "y": 808,
+        "width": 354,
+        "height": 273
+      }
+    ],
+    "note": "Actual layout4+5+4. Logical0–8 are magical girl, witch, knight, paladin, mage, alchemist, ranger, princess, fairy;9–11 are the first three decorative cells.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-outfit-gothic-v2.png": {
+    "cells": [
+      {
+        "x": 7,
+        "y": 6,
+        "width": 351,
+        "height": 406,
+        "anchorY": 0
+      },
+      {
+        "x": 366,
+        "y": 6,
+        "width": 342,
+        "height": 406,
+        "anchorY": 0
+      },
+      {
+        "x": 715,
+        "y": 6,
+        "width": 347,
+        "height": 406,
+        "anchorY": 0
+      },
+      {
+        "x": 1070,
+        "y": 6,
+        "width": 371,
+        "height": 406,
+        "anchorY": 0
+      },
+      {
+        "x": 7,
+        "y": 421,
+        "width": 280,
+        "height": 380,
+        "anchorY": 0
+      },
+      {
+        "x": 295,
+        "y": 421,
+        "width": 246,
+        "height": 380,
+        "anchorY": 0
+      },
+      {
+        "x": 550,
+        "y": 421,
+        "width": 245,
+        "height": 380,
+        "anchorY": 0
+      },
+      {
+        "x": 804,
+        "y": 421,
+        "width": 281,
+        "height": 380,
+        "anchorY": 0
+      },
+      {
+        "x": 1095,
+        "y": 421,
+        "width": 346,
+        "height": 380,
+        "anchorY": 0
+      },
+      {
+        "x": 7,
+        "y": 811,
+        "width": 363,
+        "height": 269
+      },
+      {
+        "x": 378,
+        "y": 811,
+        "width": 342,
+        "height": 269
+      },
+      {
+        "x": 728,
+        "y": 811,
+        "width": 343,
+        "height": 269
+      }
+    ],
+    "note": "Actual layout4+5+4. Logical0–8 are the nine garments in displayed order;9–11 are decorative cells, not pieces of garments.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-outfit-formal-details-v2.png": {
+    "cells": [
+      {
+        "x": 10,
+        "y": 10,
+        "width": 263,
+        "height": 360
+      },
+      {
+        "x": 289,
+        "y": 10,
+        "width": 263,
+        "height": 360
+      },
+      {
+        "x": 568,
+        "y": 10,
+        "width": 266,
+        "height": 360
+      },
+      {
+        "x": 850,
+        "y": 10,
+        "width": 262,
+        "height": 360
+      },
+      {
+        "x": 1129,
+        "y": 10,
+        "width": 263,
+        "height": 360
+      },
+      {
+        "x": 10,
+        "y": 386,
+        "width": 263,
+        "height": 354
+      },
+      {
+        "x": 289,
+        "y": 386,
+        "width": 263,
+        "height": 354
+      },
+      {
+        "x": 568,
+        "y": 386,
+        "width": 266,
+        "height": 354
+      },
+      {
+        "x": 850,
+        "y": 386,
+        "width": 262,
+        "height": 354
+      },
+      {
+        "x": 1129,
+        "y": 386,
+        "width": 263,
+        "height": 354
+      },
+      {
+        "x": 10,
+        "y": 756,
+        "width": 263,
+        "height": 356
+      },
+      {
+        "x": 289,
+        "y": 756,
+        "width": 263,
+        "height": 356
+      }
+    ],
+    "note": "Actual5×3 source sheet. Logical0–4 map exactly to satin, opera gloves, jeweled necklace, shawl, train; remaining7 logicalcells are subsequent source details.",
+    "sourceSize": {
+      "width": 1402,
+      "height": 1122
+    }
+  },
+  "thumb-finish-aspect-v2.png": {
+    "cells": [
+      {
+        "x": 9,
+        "y": 10,
+        "width": 351,
+        "height": 415
+      },
+      {
+        "x": 369,
+        "y": 10,
+        "width": 350,
+        "height": 415
+      },
+      {
+        "x": 727,
+        "y": 10,
+        "width": 352,
+        "height": 415
+      },
+      {
+        "x": 1088,
+        "y": 10,
+        "width": 351,
+        "height": 415
+      },
+      {
+        "x": 9,
+        "y": 435,
+        "width": 533,
+        "height": 298
+      },
+      {
+        "x": 550,
+        "y": 435,
+        "width": 889,
+        "height": 298
+      },
+      {
+        "x": 9,
+        "y": 743,
+        "width": 230,
+        "height": 334
+      },
+      {
+        "x": 247,
+        "y": 743,
+        "width": 193,
+        "height": 334
+      },
+      {
+        "x": 448,
+        "y": 743,
+        "width": 238,
+        "height": 334
+      },
+      {
+        "x": 695,
+        "y": 743,
+        "width": 236,
+        "height": 334
+      },
+      {
+        "x": 939,
+        "y": 743,
+        "width": 219,
+        "height": 334
+      },
+      {
+        "x": 1166,
+        "y": 743,
+        "width": 273,
+        "height": 334
+      }
+    ],
+    "note": "Actual layout4+2+6. Logical0–5 match square, portrait, tall, story, landscape, wide;6–11 are the six bottom frame shapes.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-guided-medium-layout-v1.png": {
+    "cells": [
+      {
+        "x": 2,
+        "y": 2,
+        "width": 358,
+        "height": 347
+      },
+      {
+        "x": 364,
+        "y": 2,
+        "width": 358,
+        "height": 347
+      },
+      {
+        "x": 726,
+        "y": 2,
+        "width": 358,
+        "height": 347
+      },
+      {
+        "x": 1088,
+        "y": 2,
+        "width": 358,
+        "height": 347
+      },
+      {
+        "x": 2,
+        "y": 353,
+        "width": 358,
+        "height": 348
+      },
+      {
+        "x": 364,
+        "y": 353,
+        "width": 358,
+        "height": 348
+      },
+      {
+        "x": 726,
+        "y": 353,
+        "width": 358,
+        "height": 348
+      },
+      {
+        "x": 1088,
+        "y": 353,
+        "width": 358,
+        "height": 348
+      },
+      {
+        "x": 2,
+        "y": 705,
+        "width": 358,
+        "height": 379
+      },
+      {
+        "x": 364,
+        "y": 705,
+        "width": 358,
+        "height": 379
+      },
+      {
+        "x": 726,
+        "y": 705,
+        "width": 358,
+        "height": 379
+      },
+      {
+        "x": 1088,
+        "y": 705,
+        "width": 358,
+        "height": 379
+      }
+    ],
+    "note": "Measured direct image transitions; twelve source examples in the documented row-major option order.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-guided-graphics-settings-v1.png": {
+    "cells": [
+      {
+        "x": 2,
+        "y": 2,
+        "width": 358,
+        "height": 358
+      },
+      {
+        "x": 364,
+        "y": 2,
+        "width": 358,
+        "height": 358
+      },
+      {
+        "x": 726,
+        "y": 2,
+        "width": 358,
+        "height": 358
+      },
+      {
+        "x": 1088,
+        "y": 2,
+        "width": 358,
+        "height": 358
+      },
+      {
+        "x": 2,
+        "y": 364,
+        "width": 358,
+        "height": 358
+      },
+      {
+        "x": 364,
+        "y": 364,
+        "width": 358,
+        "height": 358
+      },
+      {
+        "x": 726,
+        "y": 364,
+        "width": 358,
+        "height": 358
+      },
+      {
+        "x": 1088,
+        "y": 364,
+        "width": 358,
+        "height": 358
+      },
+      {
+        "x": 2,
+        "y": 726,
+        "width": 358,
+        "height": 358
+      },
+      {
+        "x": 364,
+        "y": 726,
+        "width": 358,
+        "height": 358
+      },
+      {
+        "x": 726,
+        "y": 726,
+        "width": 358,
+        "height": 358
+      },
+      {
+        "x": 1088,
+        "y": 726,
+        "width": 358,
+        "height": 358
+      }
+    ],
+    "note": "Measured direct image transitions; twelve source examples in the documented row-major option order.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-guided-construction-v1.png": {
+    "cells": [
+      {
+        "x": 2,
+        "y": 2,
+        "width": 358,
+        "height": 351
+      },
+      {
+        "x": 364,
+        "y": 2,
+        "width": 358,
+        "height": 351
+      },
+      {
+        "x": 726,
+        "y": 2,
+        "width": 358,
+        "height": 351
+      },
+      {
+        "x": 1088,
+        "y": 2,
+        "width": 358,
+        "height": 351
+      },
+      {
+        "x": 2,
+        "y": 357,
+        "width": 358,
+        "height": 328
+      },
+      {
+        "x": 364,
+        "y": 357,
+        "width": 358,
+        "height": 328
+      },
+      {
+        "x": 726,
+        "y": 357,
+        "width": 358,
+        "height": 328
+      },
+      {
+        "x": 1088,
+        "y": 357,
+        "width": 358,
+        "height": 328
+      },
+      {
+        "x": 2,
+        "y": 689,
+        "width": 358,
+        "height": 395
+      },
+      {
+        "x": 364,
+        "y": 689,
+        "width": 358,
+        "height": 395
+      },
+      {
+        "x": 726,
+        "y": 689,
+        "width": 358,
+        "height": 395
+      },
+      {
+        "x": 1088,
+        "y": 689,
+        "width": 358,
+        "height": 395
+      }
+    ],
+    "note": "Measured direct image transitions; twelve source examples in the documented row-major option order.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-guided-pose-support-v1.png": {
+    "cells": [
+      {
+        "x": 2,
+        "y": 2,
+        "width": 358,
+        "height": 352
+      },
+      {
+        "x": 364,
+        "y": 2,
+        "width": 358,
+        "height": 352
+      },
+      {
+        "x": 726,
+        "y": 2,
+        "width": 358,
+        "height": 352
+      },
+      {
+        "x": 1088,
+        "y": 2,
+        "width": 358,
+        "height": 352
+      },
+      {
+        "x": 2,
+        "y": 358,
+        "width": 358,
+        "height": 345
+      },
+      {
+        "x": 364,
+        "y": 358,
+        "width": 358,
+        "height": 345
+      },
+      {
+        "x": 726,
+        "y": 358,
+        "width": 358,
+        "height": 345
+      },
+      {
+        "x": 1088,
+        "y": 358,
+        "width": 358,
+        "height": 345
+      },
+      {
+        "x": 2,
+        "y": 707,
+        "width": 358,
+        "height": 377
+      },
+      {
+        "x": 364,
+        "y": 707,
+        "width": 358,
+        "height": 377
+      },
+      {
+        "x": 726,
+        "y": 707,
+        "width": 358,
+        "height": 377
+      },
+      {
+        "x": 1088,
+        "y": 707,
+        "width": 358,
+        "height": 377
+      }
+    ],
+    "note": "Measured direct image transitions; twelve source examples in the documented row-major option order.",
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    }
+  },
+  "thumb-hierarchy-appearance-world-v1.png": {
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    },
+    "cells": [
+      {
+        "x": 12,
+        "y": 12,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 374,
+        "y": 12,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 736,
+        "y": 12,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 1098,
+        "y": 12,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 12,
+        "y": 374,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 374,
+        "y": 374,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 736,
+        "y": 374,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 1098,
+        "y": 374,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 12,
+        "y": 736,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 374,
+        "y": 736,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 736,
+        "y": 736,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 1098,
+        "y": 736,
+        "width": 338,
+        "height": 338
+      }
+    ]
+  },
+  "thumb-hierarchy-detail-action-v1.png": {
+    "sourceSize": {
+      "width": 1448,
+      "height": 1086
+    },
+    "cells": [
+      {
+        "x": 12,
+        "y": 12,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 374,
+        "y": 12,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 736,
+        "y": 12,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 1098,
+        "y": 12,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 12,
+        "y": 374,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 374,
+        "y": 374,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 736,
+        "y": 374,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 1098,
+        "y": 374,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 12,
+        "y": 736,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 374,
+        "y": 736,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 736,
+        "y": 736,
+        "width": 338,
+        "height": 338
+      },
+      {
+        "x": 1098,
+        "y": 736,
+        "width": 338,
+        "height": 338
+      }
+    ]
+  }
+}

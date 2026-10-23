@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 1,
+  "createdDate": "2026-10-24",
+  "assets": [
+    {
+      "file": "site/assets/visual-guides/options/thumb-hierarchy-appearance-world-v1.png",
+      "sourceFile": "C:/Users/chuum/.codex/generated_images/01a16a88-d669-72a1-8941-177446846fa9/exec-1aa02175-a366-43a1-bf16-5996c1d3114b.png",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: stylized-concept.\nAsset type: production raster atlas for image-prompt-builder hierarchy choice thumbnails.\nPrimary request: Create exactly ONE 4-column by 3-row contact sheet, twelve equal SQUARE artwork cells. Overall landscape aspect ratio exactly 4:3, ideally 1536x1152. All artwork cells touch at exact x=25%,50%,75% and y=33.333%,66.667%. This is a production sprite atlas that will be cropped into twelve separate thumbnails. Strict regular equal-size grid, not a comic-page layout.\nStyle/medium: polished soft Japanese anime illustration, elegant delicate linework, soft painterly cel-shading, tasteful lilac/blue/pink/cream colors, detailed but easily readable at thumbnail size. When people are needed, use fully clothed adult women. The images should look consistent as one high-quality interface thumbnail set.\nComposition/framing: Every cell independently contains its own full-bleed scene reaching all four edges. The main subject and the specific concept must stay in the central 70% of that cell, leaving generous expendable peripheral background. Do not place important objects within 12% of cell edges. No elements cross from one cell to another. A slight difference in scene background color identifies where artworks meet; NEVER draw lines there.\nExactly twelve scenes in strict row-major order:\nRow 1 col 1: hair COLOR, centered shoulder portrait of an elegant adult anime woman with silky gradient hair blending silver, lavender, rosy pink and teal strands, a small natural-looking glimmer, emphasize colored hair rather than decorative effects.\nRow 1 col 2: hair FORM, centered upper-body portrait of an elegant adult anime woman with elaborate braided crown leading into wavy twin tails and side-swept bangs, hairstyle fully inside the safe central region.\nRow 1 col 3: eyes and EXPRESSION, centered frontal face closeup, sparkling teal and lavender eyes with detailed iris highlights, soft smiling mouth and warm rosy cheeks, face anatomy unambiguous.\nRow 1 col 4: skin and BODY PROPORTIONS, graceful fully clothed adult anime woman in a modest fitted turtleneck and long relaxed trousers, full body, natural warm medium-brown skin, clearly visible full silhouette and calm upright posture on a soft cream studio scene.\nRow 2 col 1: character RELATIONSHIPS, two adult anime women as affectionate friends in coordinated modest casual clothing, standing side by side and gently linking arms, both faces and their linked arms in the center, soft outdoor bokeh.\nRow 2 col 2: artistic MEDIUM, an anime portrait emerging from a watercolor painting with fine pencil strokes and translucent lavender washes, subtle paper texture, include a few small centered painterly brushstrokes, no writing.\nRow 2 col 3: INTERIOR setting, cozy richly detailed lavender vintage reading room with a centered upholstered chair, bookshelves, arched window, plants and tea table, room architecture clearly readable.\nRow 2 col 4: EXTERIOR setting, whimsical seaside garden path under a pink sky, centered flowering arch and bench overlooking the sea, varied landscape depth and greenery, no people needed.\nRow 3 col 1: GRAPHIC and TYPOGRAPHY treatments, centered compact editorial collage of an anime portrait with layered paper shapes, hearts, stars and large expressive abstract typographic letterforms arranged INSIDE the central area only, no frames at cell edges, no cell caption.\nRow 3 col 2: LIGHTING, centered adult anime woman in profile with a glowing sunset rim light on her hair and cool violet face shadow, soft strong light beam and luminous floating dust, fully clothed.\nRow 3 col 3: COLOR PALETTE, centered graceful adult anime woman in a tailored modest lavender and blush outfit amid carefully coordinated pastel lilac, dusty blue and soft pink botanical shapes, strong harmonious triadic palette impression, no swatch bars or diagrams.\nRow 3 col 4: WEATHER, centered adult anime woman in a modest lavender raincoat holding a clear umbrella under sparkling rain with cloudy sky and puddle reflections, raindrops clearly visible but not a border.\nConstraints: absolutely NO grid lines, NO separators, NO gutters, NO white horizontal or vertical bands, NO frames around images, NO rounded corners, NO labels, NO numbers, NO captions, NO watermarks. The scene edge is an abrupt crop of artwork, never a line. Do not draw cell-edge borders. Four columns and three rows must be perfectly regular. No extra panels.",
+      "width": 1448,
+      "height": 1086,
+      "columns": 4,
+      "rows": 3,
+      "coordinates": "zero-based source pixels, x/y inclusive, width/height in pixels",
+      "cellEdges": {
+        "x": [
+          0,
+          362,
+          724,
+          1086,
+          1448
+        ],
+        "y": [
+          0,
+          362,
+          724,
+          1086
+        ]
+      },
+      "safeInsetPx": 12,
+      "verification": {
+        "inspected": true,
+        "separatorsPresent": false,
+        "neighborArtworkInCrops": false,
+        "note": "Visually inspected both generated full-resolution atlases. All 12 scenes have regular 362×362 cell boundaries and no drawn separator lines, white gutters, or cell frames. Crops stay 12 px inside every measured boundary, retaining only the intended scene. Decorative collage material in the graphics cell is intrinsic artwork."
+      },
+      "cells": [
+        {
+          "index": 0,
+          "id": "hair-color",
+          "meaning": "헤어 컬러",
+          "row": 0,
+          "column": 0,
+          "x": 12,
+          "y": 12,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 1,
+          "id": "hair-form",
+          "meaning": "헤어 형태",
+          "row": 0,
+          "column": 1,
+          "x": 374,
+          "y": 12,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 2,
+          "id": "eyes-expression",
+          "meaning": "눈 / 표정",
+          "row": 0,
+          "column": 2,
+          "x": 736,
+          "y": 12,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 3,
+          "id": "skin-body",
+          "meaning": "피부 / 체형",
+          "row": 0,
+          "column": 3,
+          "x": 1098,
+          "y": 12,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 4,
+          "id": "relationships",
+          "meaning": "인물 관계",
+          "row": 1,
+          "column": 0,
+          "x": 12,
+          "y": 374,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 5,
+          "id": "art-medium",
+          "meaning": "화풍 / 매체",
+          "row": 1,
+          "column": 1,
+          "x": 374,
+          "y": 374,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 6,
+          "id": "interior",
+          "meaning": "실내 배경",
+          "row": 1,
+          "column": 2,
+          "x": 736,
+          "y": 374,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 7,
+          "id": "exterior",
+          "meaning": "실외 배경",
+          "row": 1,
+          "column": 3,
+          "x": 1098,
+          "y": 374,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 8,
+          "id": "graphics-typography",
+          "meaning": "그래픽 / 타이포",
+          "row": 2,
+          "column": 0,
+          "x": 12,
+          "y": 736,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 9,
+          "id": "lighting",
+          "meaning": "조명",
+          "row": 2,
+          "column": 1,
+          "x": 374,
+          "y": 736,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 10,
+          "id": "palette",
+          "meaning": "배색",
+          "row": 2,
+          "column": 2,
+          "x": 736,
+          "y": 736,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 11,
+          "id": "weather",
+          "meaning": "날씨",
+          "row": 2,
+          "column": 3,
+          "x": 1098,
+          "y": 736,
+          "width": 338,
+          "height": 338
+        }
+      ]
+    },
+    {
+      "file": "site/assets/visual-guides/options/thumb-hierarchy-detail-action-v1.png",
+      "sourceFile": "C:/Users/chuum/.codex/generated_images/01a16a88-d669-72a1-8941-177446846fa9/exec-30c481e1-a6bc-4fbd-862f-0bd839b21796.png",
+      "tool": "built-in image_gen",
+      "prompt": "Use case: stylized-concept.\nAsset type: production raster atlas for image-prompt-builder hierarchy choice thumbnails.\nPrimary request: Create exactly ONE 4-column by 3-row contact sheet, twelve equal SQUARE artwork cells. Overall landscape aspect ratio exactly 4:3, ideally 1536x1152. All artwork cells touch at exact x=25%,50%,75% and y=33.333%,66.667%. This is a production sprite atlas that will be cropped into twelve separate thumbnails. Strict regular equal-size grid, not a comic-page layout.\nStyle/medium: polished soft Japanese anime illustration, elegant delicate linework, soft painterly cel-shading, tasteful lilac/blue/pink/cream colors, detailed but easily readable at thumbnail size. All characters are fully clothed adult women with opaque modest outfits. The images should look consistent as one high-quality interface thumbnail set.\nComposition/framing: Every cell independently contains its own full-bleed scene reaching all four edges. The main subject and the specific concept must stay in the central 70% of that cell, leaving generous expendable peripheral background. Do not place important objects within 12% of cell edges. No elements cross from one cell to another. A slight difference in scene background color identifies where artworks meet; NEVER draw lines there.\nExactly twelve scenes in strict row-major order:\nRow 1 col 1: SLEEVES and COLLARS, centered bust portrait of an adult anime fashion woman in an opaque lavender blouse with ornate Peter Pan collar, narrow ribbon tie and elegantly puffed upper sleeves with lace cuffs, show both sleeves and collar together, no accessory emphasis.\nRow 1 col 2: LAYERING and TAILORING, adult anime woman wearing a richly layered modest Victorian-inspired outfit with fitted long tailored vest over opaque long-sleeve blouse and a tiered ruffle skirt; show clearly contrasting layered garment pieces in a centered three-quarter full-body view.\nRow 1 col 3: FABRIC TEXTURE, centered close-up still life of flowing folded fabric arranged on a small mannequin shoulder: lavender satin sheen, soft cream knitted wool, deep blue velvet, delicate lace; luxurious tactile material contrast, no written swatch labels.\nRow 1 col 4: PATTERN and EMBROIDERY, centered fashion detail closeup of opaque lavender jacket shoulder and bodice with fine silver floral embroidery, embroidered stars, lace trim, tiny pearls and a subtle jacquard floral pattern, all ornament within central area.\nRow 2 col 1: SOCKS and SHOES, centered lower legs of fully clothed adult woman under a modest long skirt hem, opaque cream lace-trimmed ankle socks and detailed black platform Mary Jane shoes with lavender ribbon laces, both feet fully visible above the lower safe margin, natural relaxed standing pose.\nRow 2 col 2: HEADWEAR, centered shoulder portrait of an adult anime woman wearing an elegant soft lavender beret with small side ribbon and tiny flower accent, enough space above and beside the hat that its whole silhouette sits inside center70%.\nRow 2 col 3: JEWELRY, centered bust portrait of an adult anime woman in a high-neck dark lavender blouse wearing clearly visible delicate silver and pearl earrings, layered pendant necklace, finger rings and bracelet, one hand gently touching the necklace, refined jewelry visible.\nRow 2 col 4: HELD PROPS, centered adult anime woman in a modest cream blouse holding an ornate closed lavender book in one hand and a small floral teacup in the other, both hands and items in the safe center, calm waist-up composition.\nRow 3 col 1: FLOATING ORNAMENTS, centered adult anime woman in an opaque elegant lavender dress surrounded by a few floating translucent hearts, soft butterfly shapes, delicate ribbons and tiny luminous stars, all floating ornaments contained well inside cell and not crossing the edge.\nRow 3 col 2: HAND GESTURE, centered waist-up adult anime woman in opaque modest long-sleeve clothing making a clear small heart shape with her thumbs and index fingers in front of her chest, natural five-finger anatomy, hands fully visible and centered.\nRow 3 col 3: BODY POSE, centered full-body adult anime woman in opaque modest lavender blouse and long blue skirt, perched sideways on a low ivory bench with gracefully crossed ankles and one hand braced on the bench, posture and supporting surface clearly visible in safe center.\nRow 3 col 4: CAMERA and EDITING, a deliberately foreshortened angled anime editorial portrait seen from slightly above, adult woman in modest outfit looking toward the viewer, shallow depth of field with distant lavender architecture, a soft internal diagonal composition; no camera graphic, no film borders, no frame.\nConstraints: absolutely NO grid lines, NO separators, NO gutters, NO white horizontal or vertical bands, NO frames around images, NO rounded corners, NO labels, NO numbers, NO captions, NO watermarks. The scene edge is an abrupt crop of artwork, never a line. Do not draw cell-edge borders. Four columns and three rows must be perfectly regular. No extra panels. No partial neighbor scenes or border marks at any edge.",
+      "width": 1448,
+      "height": 1086,
+      "columns": 4,
+      "rows": 3,
+      "coordinates": "zero-based source pixels, x/y inclusive, width/height in pixels",
+      "cellEdges": {
+        "x": [
+          0,
+          362,
+          724,
+          1086,
+          1448
+        ],
+        "y": [
+          0,
+          362,
+          724,
+          1086
+        ]
+      },
+      "safeInsetPx": 12,
+      "verification": {
+        "inspected": true,
+        "separatorsPresent": false,
+        "neighborArtworkInCrops": false,
+        "note": "Visually inspected both generated full-resolution atlases. All 12 scenes have regular 362×362 cell boundaries and no drawn separator lines, white gutters, or cell frames. Crops stay 12 px inside every measured boundary, retaining only the intended scene. Decorative collage material in the graphics cell is intrinsic artwork."
+      },
+      "cells": [
+        {
+          "index": 0,
+          "id": "sleeves-collars",
+          "meaning": "소매 / 칼라",
+          "row": 0,
+          "column": 0,
+          "x": 12,
+          "y": 12,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 1,
+          "id": "layering-tailoring",
+          "meaning": "겹침 / 재단",
+          "row": 0,
+          "column": 1,
+          "x": 374,
+          "y": 12,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 2,
+          "id": "fabric-texture",
+          "meaning": "천 질감",
+          "row": 0,
+          "column": 2,
+          "x": 736,
+          "y": 12,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 3,
+          "id": "pattern-embroidery",
+          "meaning": "무늬 / 자수",
+          "row": 0,
+          "column": 3,
+          "x": 1098,
+          "y": 12,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 4,
+          "id": "socks-shoes",
+          "meaning": "양말 / 신발",
+          "row": 1,
+          "column": 0,
+          "x": 12,
+          "y": 374,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 5,
+          "id": "headwear",
+          "meaning": "헤드웨어",
+          "row": 1,
+          "column": 1,
+          "x": 374,
+          "y": 374,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 6,
+          "id": "jewelry",
+          "meaning": "주얼리",
+          "row": 1,
+          "column": 2,
+          "x": 736,
+          "y": 374,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 7,
+          "id": "held-props",
+          "meaning": "손에 든 소품",
+          "row": 1,
+          "column": 3,
+          "x": 1098,
+          "y": 374,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 8,
+          "id": "floating-ornaments",
+          "meaning": "부유 장식",
+          "row": 2,
+          "column": 0,
+          "x": 12,
+          "y": 736,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 9,
+          "id": "hand-gesture",
+          "meaning": "손 제스처",
+          "row": 2,
+          "column": 1,
+          "x": 374,
+          "y": 736,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 10,
+          "id": "body-pose",
+          "meaning": "몸 자세",
+          "row": 2,
+          "column": 2,
+          "x": 736,
+          "y": 736,
+          "width": 338,
+          "height": 338
+        },
+        {
+          "index": 11,
+          "id": "camera-editing",
+          "meaning": "카메라 / 편집",
+          "row": 2,
+          "column": 3,
+          "x": 1098,
+          "y": 736,
+          "width": 338,
+          "height": 338
+        }
+      ]
+    }
+  ]
+}
